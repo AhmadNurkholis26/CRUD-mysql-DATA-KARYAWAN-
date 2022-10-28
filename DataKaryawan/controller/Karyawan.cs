@@ -10,6 +10,7 @@ namespace DataKaryawan.controller
 {
     internal class Karyawan
     {
+        // vhanges
         //memanggil koneksi dan membuat object baru
         Koneksi koneksi= new Koneksi();
 
